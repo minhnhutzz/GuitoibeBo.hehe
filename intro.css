@@ -1758,15 +1758,15 @@ body{
 }
 .box-content .right .content .title{
     font-family: 'Dancing Script', cursive;
-    width: 150px;
-    height: 40px;
+    width: 175px;
+    height: 90px;
     display: flex;
     justify-content: center;
     margin-top: 10px;
     overflow: hidden;
 }
 .box-content .right .content .title h1{
-    margin-top: -40px;
+    margin-top: -90px;
     transition: 0.5s;
 }
 .slider3:hover .title h1{
@@ -2045,7 +2045,7 @@ body{
     font-size: 15px;
 }
 .text-content h1{
-    font-size: 19px;
+    font-size: 9px;
 }
 .text-content span{
     font-size: 25px;
@@ -2088,7 +2088,7 @@ body{
     font-size: 15px;
 }
 .box-content .right .content .fixedContent{
-    width: 200px;
+    width: 200x;
     margin-left: 50px;
 }
 .box-content .right .content .fixedContent h3{
